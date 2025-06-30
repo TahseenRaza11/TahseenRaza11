@@ -18,7 +18,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Final-year CSE student passionate about technology, AI, and ML
+- 🎓 Pre-Final year CSE student passionate about technology, AI, and ML
 - 💡 Actively working on real-world projects in machine learning and data science
 - 🤝 Looking to collaborate on open-source and impactful tech communities
 - 🌱 Currently learning: **Deep Learning**, **Cloud Deployment**, **FastAPI**
